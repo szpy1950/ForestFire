@@ -33,11 +33,12 @@ A functional programming project written in Scala that simulates forest fire spr
 
 ## Understanding the Simulation
 
-![Logo](images/im1.png)
+<img src="images/im1.png" alt="Logo" width="600"/>
+<img src="images/im2.png" alt="Logo" width="600"/>
 
-![Logo](images/im2.png)
+A youtube video is available here:
 
-[YouTube Video](https://youtu.be/tA5UnrfqJQI)
+[ForestFire Simulation Video](https://youtu.be/tA5UnrfqJQI)
 
 ### Grid Elements
 The simulation displays different elements using visual indicators:
