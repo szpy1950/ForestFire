@@ -2,10 +2,6 @@
 
 A functional programming project written in Scala that simulates forest fire spread using cellular automata principles. This simulation models environmental factors including temperature, humidity, wind effects, and natural ecosystem dynamics.
 
-![Logo](images/im1.png)
-
-![Logo](images/im2.png)
-
 ## Features
 
 - Real-time visual simulation with console display
@@ -36,6 +32,12 @@ A functional programming project written in Scala that simulates forest fire spr
    ```
 
 ## Understanding the Simulation
+
+![Logo](images/im1.png)
+
+![Logo](images/im2.png)
+
+[YouTube Video](https://youtu.be/tA5UnrfqJQI)
 
 ### Grid Elements
 The simulation displays different elements using visual indicators:
